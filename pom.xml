@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>padmaja_stringreverse_maven_test</groupId>
-    <artifactId>StringReverse_MavenTest1</artifactId>
+    <groupId>padmaja_string_methods_test_maven_test</groupId>
+    <artifactId>StringMethodsTest_MavenTest1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
